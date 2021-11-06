@@ -1,0 +1,296 @@
+.left {
+  border: 0.3rem;
+  height: 33rem;
+  width: 84.6rem;
+  margin-left: -1rem;
+  margin-top: -1rem;
+  background-color: #121214;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.left1 {
+  height: 37rem;
+  width: 27rem;
+  margin-top: 0rem;
+  margin-left: -1rem;
+}
+
+.right2 {
+  border: 0.3rem;
+  height: 22rem;
+  width: 51.6rem;
+  margin-left: 32rem;
+  margin-top: 0rem;
+}
+.end {
+  border: 0.3rem;
+  height: 3rem;
+  width: 84.6rem;
+  margin-left: -1rem;
+  margin-top: -21rem;
+  background-color: indigo;
+}
+.test1 {
+  border: 0.3rem solid;
+  height: 2rem;
+  width: 10rem;
+  padding: 0;
+}
+.test2 {
+  border: 0.3rem solid;
+  height: 2rem;
+  width: 10rem;
+  padding: 0;
+  margin-left: 21rem;
+  margin-top: -2.6rem;
+}
+.test3 {
+  border: 0.3rem solid;
+  height: 2rem;
+  width: 10rem;
+  margin-left: 41rem;
+  padding: 0;
+  margin-top: -2.6rem;
+}
+.texto {
+  margin-left: 5rem;
+  font: 700 3.6rem 'Poppins', sans-serif;
+  color: white;
+}
+.texto1 {
+  margin-left: 5rem;
+  font: 700 1.5rem 'Poppins', sans-serif;
+  color: white;
+  margin-top: -2rem;
+}
+.texto2 {
+  margin-left: 5rem;
+  font: 700 2rem 'Poppins', sans-serif;
+  color: white;
+}
+.texto3 {
+  margin-left: 50rem;
+  font: 700 2rem 'Poppins', sans-serif;
+  color: white;
+  margin-top: -4.2rem;
+}
+
+.button {
+  border: 0.1rem;
+  height: 3rem;
+  width: 10rem;
+  margin-left: 4.9rem;
+  background-color: white;
+  border-radius: 0.4rem;
+  padding: 0;
+  transition: all 0.3s;
+}
+.button:hover {
+  height: 3.2rem;
+  width: 60rem;
+  border-radius: 12rem;
+}
+.reis {
+  text-decoration: none;
+  color: black;
+  font: 700 1rem 'Poppins', sans-serif;
+  margin-left: 2.5rem;
+  margin-top: 10rem;
+}
+.couto {
+  border: 0.3rem solid;
+  height: 6rem;
+  margin-top: -1rem;
+  margin-left: -1rem;
+  width: 84rem;
+
+  background-color: #000000;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.img {
+  border: 0.3rem solid;
+  width: 36rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  border-radius: 0.1rem;
+}
+.texto6 {
+  padding: 0;
+  margin-left: 3rem;
+  font: 700 2rem 'Poppins', sans-serif;
+  color: black;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  text-align: center;
+}
+
+.name {
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+  width: 83.7rem;
+  height: 3rem;
+  margin-left: 1rem;
+  border-radius: 0.6rem;
+  border: 0.3rem solid;
+  padding: 0%;
+  background-color: white;
+  transition: all 0.1s;
+}
+
+.right1 {
+  border: 0.3rem;
+  height: 30rem;
+  width: 28rem;
+  margin-top: -37rem;
+  margin-left: 50rem;
+  border-radius: 0.3rem;
+  background-color: #121214;
+}
+
+.texto10 {
+  padding: 0;
+  margin-left: 4.2rem;
+  font: 700 1.8rem 'Poppins', sans-serif;
+  color: white;
+
+  margin-bottom: 1rem;
+  margin-top: 4.8rem;
+}
+#todo {
+  background-image: url(https://media.istockphoto.com/photos/close-up-of-a-black-slate-texture-background-stone-grunge-texture-picture-id1268759368?b=1&k=20&m=1268759368&s=170667a&w=0&h=DIY4qKF5cJYL4uO8C2OoxUMWaw34_j_TPhT7tZXKw5U=);
+
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 38rem;
+  width: 84.3rem;
+  margin-top: -0.4rem;
+  margin-left: -0.5rem;
+}
+
+p {
+  font: 400 1rem 'Poppins', sans-serif;
+  color: white;
+  text-align: center;
+}
+.proj {
+  border: 0.3rem;
+  height: 38rem;
+  width: 6rem;
+  margin-top: 0.3rem;
+  margin-left: -0.6rem;
+  background-color: #121214;
+}
+.projetos {
+  border: 0.2rem solid;
+  height: 40rem;
+  width: 84rem;
+  margin-top: 0.5rem;
+  margin-left: -0.5rem;
+  background-image: url(https://media.istockphoto.com/photos/close-up-of-a-black-slate-texture-background-stone-grunge-texture-picture-id1268759368?b=1&k=20&m=1268759368&s=170667a&w=0&h=DIY4qKF5cJYL4uO8C2OoxUMWaw34_j_TPhT7tZXKw5U=);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#proj1 {
+  border: 0.2rem solid;
+  height: 3rem;
+  width: 83.6rem;
+  background-color: white;
+}
+.texto19 {
+  padding: 0;
+  margin-left: 3rem;
+  font: 700 2rem 'Poppins', sans-serif;
+  color: black;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  text-align: center;
+}
+.a {
+  border: 0.2rem solid;
+  height: 10rem;
+  width: 25rem;
+  margin-left: 49rem;
+
+  margin-top: 4rem;
+}
+.b {
+  border: 0.2rem solid;
+  height: 10rem;
+  width: 25rem;
+  float: left;
+  margin-left: 12rem;
+  margin-top: -10rem;
+}
+.c {
+  border: 0.2rem solid;
+  height: 10rem;
+  width: 25rem;
+  margin-left: 49rem;
+  margin-top: 7rem;
+}
+.d {
+  border: 0.2rem solid;
+  height: 10rem;
+  width: 25rem;
+  margin-top: -10.5rem;
+  margin-left: 12rem;
+}
+
+.he {
+  margin-left: 17rem;
+
+  color: white;
+  font: 700 2.5rem 'Poppins', sans-serif;
+}
+.he1 {
+  margin-left: 50rem;
+  color: white;
+  margin-top: -30.9rem;
+  font: 700 2.5rem 'Poppins', sans-serif;
+}
+.p {
+  border: 0.2rem solid;
+  margin-left: 16.5rem;
+  width: 15rem;
+  height: 25rem;
+  background-color: white;
+  border-radius: 0.3rem;
+}
+.xixi {
+  color: black;
+  font: 700 1.3rem 'Poppins', sans-serif;
+}
+.xixu {
+  color: black;
+  font: 700 1.3rem 'Poppins', sans-serif;
+}
+.bla {
+  height: 3rem;
+  width: 10rem;
+  margin-left: 2.6rem;
+  border-radius: 0.6rem;
+}
+.p1 {
+  border: 0.2rem solid;
+  margin-left: 50rem;
+  width: 15rem;
+  height: 25rem;
+  background-color: white;
+  border-radius: 0.3rem;
+}
+.hahaha {
+  color: black;
+  font: 700 2rem 'Poppins', sans-serif;
+  margin-top: 0rem;
+  text-align: center;
+}
+.fim {
+  border: 0.3rem solid;
+  height: 3rem;
+  background-color: white;
+  margin-top: 3rem;
+}
