@@ -1,0 +1,108 @@
+.cabeca {
+  border: 0.3rem;
+  background-color: #2c2663;
+  height: 2.5rem;
+  width: 84.7rem;
+  margin-top: 3.2rem;
+  margin-left: -1rem;
+  padding: 0;
+}
+.text {
+  text-decoration: none;
+  color: white;
+  margin-top: 0.7rem;
+  float: left;
+  font: 400 1.05rem 'Roboto', sans-serif;
+}
+#text1 {
+  margin-left: 8.5rem;
+  padding-bottom: 0rem;
+  margin-top: 1rem;
+}
+#text2 {
+  margin-left: 16.8rem;
+  margin-top: -1.46rem;
+  padding: 0;
+}
+#text3 {
+  margin-left: 21.6rem;
+}
+#text4 {
+  margin-left: 31.6rem;
+}
+#text5 {
+  margin-left: 63rem;
+}
+#text6 {
+  margin-left: 69rem;
+}
+.teste {
+  padding: 0;
+}
+.textp {
+  text-decoration: none;
+  color: yellow;
+  margin-top: 0.7rem;
+  float: left;
+  font: 400 1.05rem 'Roboto', sans-serif;
+}
+.div1 {
+  border: 0.1rem solid;
+  height: 4.93rem;
+  width: 84.5rem;
+  margin-left: -1rem;
+}
+.div2 {
+  border: 0.1rem;
+  height: 4rem;
+  width: 84.5rem;
+  margin-left: -1rem;
+}
+.img {
+  border: 0.1rem;
+  height: 33rem;
+  width: 84.5rem;
+  margin-left: -1rem;
+  background-image: url(https://uvv.br/wp-content/uploads/20211017-banner_site_mestradoedoutorado2022_mulher_1920x670-1536x536.png);
+}
+.texto {
+  text-decoration: none;
+  color: black;
+  margin-top: 1.35rem;
+  margin-left: 1.9rem;
+  float: left;
+  font: 400 1.05rem 'Roboto', sans-serif;
+}
+.abaixo {
+  border: 0.1rem solid;
+  height: 6.875rem;
+  width: 84.5rem;
+  margin-left: -1rem;
+}
+.fundo {
+  background-image: url(https://uvv.br/wp-content/themes/uvvBr/templates/assets//img/mapa-home.png);
+  border: 0.1rem solid;
+  height: 35rem;
+  width: 35rem;
+  margin-left: 46rem;
+  margin-top: 1rem;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.video {
+  border: 0.1rem;
+  width: 35rem;
+  height: 19.5rem;
+  margin-right: 590rem;
+
+  float: left;
+  margin-top: 25rem;
+}
+iframe {
+  border-radius: 0.4rem;
+  float: left;
+}
+.pedro {
+  float: left;
+  border: 0.1rem solid;
+}
